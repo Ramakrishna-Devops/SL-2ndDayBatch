@@ -1,1 +1,3 @@
-we will belearning concepts of git 
+we will belearning concepts of git
+this is very begining of our class
+
